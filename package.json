@@ -1,0 +1,16 @@
+{
+    "name": "bundler",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "acorn": "^8.8.1",
+        "acorn-walk": "^8.2.0"
+    }
+}
